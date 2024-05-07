@@ -9,7 +9,7 @@ User Authentication
 - Login System: Secure authentication process allowing users to access their personalized running data dashboard.
 
 Data Management
-- Update Running Data: Users can add new entries or delete existing runs from the `rundata.txt` file, ensuring up-to-date tracking of their running activities.
+- Update Running Data: Users can add new entries or delete existing runs from the console, ensuring up-to-date tracking of their running activities.
 
 Data Summarization
 - Monthly Summary: Provides a detailed summary of total mileage and time spent running each month, allowing users to track their progress and set goals.
