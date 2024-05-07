@@ -1,1 +1,23 @@
-The goal of this C++ program is to create a program that will help runners like me to keep track of running data and be able to calculate all of the necessary things for running in one program. There is not a program that I know of that can do all of these functions in one application. I will first have a login menu. If they successfully log in it will continue to the main menu prompting them with 4 choices. Update running data which will allow them to add or delete a run from the rundata.txt file. The second option is the summary which will provide them with the monthly mileage and time they ran. The third option that makes the program different from many other programs is that it will allow them to calculate Vdot and race pace in this one program, so instead of going on the internet to search for these calculators, it will conclude in this program. Vdot calculator will ask them their best performance time and based on that it will provide them with the equivalent performance based on this calculation and what pace they should be training at. The race pace calculator will ask them for their goal time and how long a lap is. Then it will calculate how fast they have to run per lap based on the user input. The final option is the sign-out so a new user can sign in or end the program. 
+Project: Comprehensive Running Data Management System
+
+Overview
+
+ C++ application designed to offer an integrated solution for runners to manage and analyze their running data efficiently. This program stands out by consolidating multiple functionalities into a single platform, addressing a notable gap in the market for comprehensive running data applications.
+
+Features
+User Authentication
+- Login System: Secure authentication process allowing users to access their personalized running data dashboard.
+
+Data Management
+- Update Running Data: Users can add new entries or delete existing runs from the `rundata.txt` file, ensuring up-to-date tracking of their running activities.
+
+Data Summarization
+- Monthly Summary: Provides a detailed summary of total mileage and time spent running each month, allowing users to track their progress and set goals.
+
+Advanced Calculations
+- Vdot Calculator: This unique feature offers users an analysis of their running performance by requesting their best performance times. It then calculates the equivalent performance and suggests appropriate training paces.
+- Race Pace Calculator: Assists in strategic race planning by calculating necessary lap speeds based on user-specified race goals and lap lengths.
+
+Session Management
+- Sign-Out: Facilitates easy switching between user accounts or safe termination of the application session.
+
