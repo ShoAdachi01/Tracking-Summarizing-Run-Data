@@ -1,23 +1,16 @@
-Project: Comprehensive Running Data Management System
+# Project: Comprehensive Running Data Management System
 
-Overview
+## Overview
+This C++ application offers an integrated solution for runners to manage and analyze their running data efficiently. By consolidating multiple functionalities into a single platform, this program addresses a gap in the market for comprehensive running data applications. It includes features like a login system, data management, monthly summaries, and advanced calculations like Vdot and race pace calculators.
 
- C++ application designed to offer an integrated solution for runners to manage and analyze their running data efficiently. This program stands out by consolidating multiple functionalities into a single platform, addressing a notable gap in the market for comprehensive running data applications.
+## Features
+- **User Authentication**: A secure login system allowing users to access their personalized running data dashboard.
+- **Data Management**: Users can add or delete running entries from the console, ensuring accurate tracking.
+- **Data Summarization**: Provides a detailed monthly summary of total mileage and time spent running.
+- **Advanced Calculations**:
+   - *Vdot Calculator*: Analyzes performance based on best times and recommends training paces.
+   - *Race Pace Calculator*: Calculates necessary lap speeds for strategic race planning.
+- **Session Management**: Allows users to sign out easily, supporting multi-user access.
 
-Features
-User Authentication
-- Login System: Secure authentication process allowing users to access their personalized running data dashboard.
-
-Data Management
-- Update Running Data: Users can add new entries or delete existing runs from the console, ensuring up-to-date tracking of their running activities.
-
-Data Summarization
-- Monthly Summary: Provides a detailed summary of total mileage and time spent running each month, allowing users to track their progress and set goals.
-
-Advanced Calculations
-- Vdot Calculator: This unique feature offers users an analysis of their running performance by requesting their best performance times. It then calculates the equivalent performance and suggests appropriate training paces.
-- Race Pace Calculator: Assists in strategic race planning by calculating necessary lap speeds based on user-specified race goals and lap lengths.
-
-Session Management
-- Sign-Out: Facilitates easy switching between user accounts or safe termination of the application session.
-
+## Purpose
+The goal of this program is to help runners track their running data, perform calculations like Vdot and race pace, and provide all necessary functionalities in one platform.
