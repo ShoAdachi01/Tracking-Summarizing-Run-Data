@@ -9,3 +9,7 @@ main-debug
 Thumbs.db
 *.log
 
+# Ignore cache and build files
+.ccls-cache/
+main
+main.o
