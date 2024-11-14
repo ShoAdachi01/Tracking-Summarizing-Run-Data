@@ -1,0 +1,11 @@
+# Ignore data and test files
+*.txt
+
+# Ignore debug and compiled files
+main-debug
+
+# Ignore other environment-specific or temporary files
+.DS_Store
+Thumbs.db
+*.log
+
